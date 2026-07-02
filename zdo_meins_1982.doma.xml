@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DOMA" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD01V>
+    <DOMNAME>ZDO_MEINS_1982</DOMNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DATATYPE>CHAR</DATATYPE>
+    <LENG>0003</LENG>
+    <OUTPUTLEN>0003</OUTPUTLEN>
+    <VALEXI>X</VALEXI>
+    <ENTITYTAB>DD07V</ENTITYTAB>
+    <DDTEXT>Unit of Measure (Sales Order Item)</DDTEXT>
+   </DD01V>
+   <DD07V_TAB>
+    <DD07V>
+     <VALPOS>0001</VALPOS>
+     <DOMVALUE_L>EA</DOMVALUE_L>
+     <DDTEXT>Each</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <VALPOS>0002</VALPOS>
+     <DOMVALUE_L>CM</DOMVALUE_L>
+     <DDTEXT>Centimeter</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <VALPOS>0003</VALPOS>
+     <DOMVALUE_L>KG</DOMVALUE_L>
+     <DDTEXT>Kilogram</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <VALPOS>0004</VALPOS>
+     <DOMVALUE_L>M</DOMVALUE_L>
+     <DDTEXT>Meter</DDTEXT>
+    </DD07V>
+   </DD07V_TAB>
+  </asx:values>
+ </asx:abap>
+</abapGit>
